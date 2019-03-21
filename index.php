@@ -1,2 +1,2 @@
-<h1>Index git</h1>
-<span>second change</span>
+<h1>Index git 2.0</h1>
+<p>New text</p>
